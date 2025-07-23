@@ -1,0 +1,2 @@
+# Customer-Churn-Analysis---Predictive-Analytics-for-Business-Intelligence
+Comprehensive customer churn analysis project demonstrating: - End-to-end data science pipeline using Python - Machine learning model with 87% prediction accuracy - Business intelligence with actionable insights - Professional data visualizations and reporting - Technologies: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
